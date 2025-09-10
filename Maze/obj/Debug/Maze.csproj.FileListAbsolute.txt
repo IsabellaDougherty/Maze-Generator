@@ -8,3 +8,14 @@ E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze\obj\Debug\Maze.csproj.Generate
 E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
 E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze\obj\Debug\Maze.exe
 E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze\obj\Debug\Maze.pdb
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\bin\Debug\Maze.exe.config
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\bin\Debug\Maze.exe
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\bin\Debug\Maze.pdb
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\obj\Debug\Maze.exe.config
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\obj\Debug\Maze.frmMazes.resources
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\obj\Debug\Maze.Properties.Resources.resources
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\obj\Debug\Maze.exe
+E:\School\CS4412\CS4412Pj6_DoughertyIsabella\Maze-Generator\Maze\obj\Debug\Maze.pdb

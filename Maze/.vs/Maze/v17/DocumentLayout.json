@@ -1,38 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\",
+  "WorkspaceRootPath": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze-Generator\\Maze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\solvemaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|solutionrelative:solvemaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|e:\\school\\cs4412\\cs4412pj6_doughertyisabella\\maze-generator\\maze\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|e:\\school\\cs4412\\cs4412pj6_doughertyisabella\\maze\\drawmaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|solutionrelative:drawmaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\buildmaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze-Generator\\Maze\\buildmaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|solutionrelative:buildmaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\mazes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze-Generator\\Maze\\mazes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|solutionrelative:mazes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\mazes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|solutionrelative:mazes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\mazenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|solutionrelative:mazenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\breakmaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|solutionrelative:breakmaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\mazes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39FC3B0-2009-49E8-B3D5-04A6A59C1E75}|Maze.csproj|solutionrelative:mazes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,99 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Mazes.cs [Design]",
-              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\Mazes.cs",
+              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze-Generator\\Maze\\Mazes.cs",
               "RelativeDocumentMoniker": "Mazes.cs",
-              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\Mazes.cs [Design]",
+              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze-Generator\\Maze\\Mazes.cs [Design]",
               "RelativeToolTip": "Mazes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T15:30:58.914Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DrawMaze.cs",
-              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\DrawMaze.cs",
-              "RelativeDocumentMoniker": "DrawMaze.cs",
-              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\DrawMaze.cs",
-              "RelativeToolTip": "DrawMaze.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAIAAAAAAAAAA==",
+              "Title": "BuildMaze.cs",
+              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze-Generator\\Maze\\BuildMaze.cs",
+              "RelativeDocumentMoniker": "BuildMaze.cs",
+              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze-Generator\\Maze\\BuildMaze.cs",
+              "RelativeToolTip": "BuildMaze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T21:41:36.848Z",
+              "WhenOpened": "2024-11-05T20:47:33.837Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Mazes.cs",
-              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\Mazes.cs",
-              "RelativeDocumentMoniker": "Mazes.cs",
-              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\Mazes.cs",
-              "RelativeToolTip": "Mazes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4BAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T05:00:34.207Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BreakMaze.cs",
-              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\BreakMaze.cs",
-              "RelativeDocumentMoniker": "BreakMaze.cs",
-              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\BreakMaze.cs",
-              "RelativeToolTip": "BreakMaze.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:18:12.476Z",
-              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SolveMaze.cs",
-              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\SolveMaze.cs",
-              "RelativeDocumentMoniker": "SolveMaze.cs",
-              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\SolveMaze.cs",
-              "RelativeToolTip": "SolveMaze.cs",
-              "ViewState": "AgIAABMAAAAAmpmZmZkpwDUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T03:33:00.806Z",
-              "IsPinned": true,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze-Generator\\Maze\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze-Generator\\Maze\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-09-10T00:47:43.266Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BuildMaze.cs",
-              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\BuildMaze.cs",
-              "RelativeDocumentMoniker": "BuildMaze.cs",
-              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\BuildMaze.cs",
-              "RelativeToolTip": "BuildMaze.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAArwDYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:47:33.837Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MazeNode.cs",
-              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\MazeNode.cs",
-              "RelativeDocumentMoniker": "MazeNode.cs",
-              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\MazeNode.cs",
-              "RelativeToolTip": "MazeNode.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwEYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:11:35.905Z",
-              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -154,31 +81,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Mazes.Designer.cs",
-              "DocumentMoniker": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\Mazes.Designer.cs",
-              "RelativeDocumentMoniker": "Mazes.Designer.cs",
-              "ToolTip": "E:\\School\\CS4412\\CS4412Pj6_DoughertyIsabella\\Maze\\Mazes.Designer.cs",
-              "RelativeToolTip": "Mazes.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:31:09.308Z"
             }
           ]
         },

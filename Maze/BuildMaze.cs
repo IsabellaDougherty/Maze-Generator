@@ -20,12 +20,8 @@ namespace Maze
             maze = new MazeNode[rows, cols];
 
             for (int row = 0; row < rows; row++)
-            {
-                for (int col = 0; col < cols; col++)
-                {
-                    maze[row, col] = new MazeNode(1, 1, 1, 1);
-                }
-            }
+                { for (int col = 0; col < cols; col++) 
+                    maze[row, col] = new MazeNode(1, 1, 1, 1); }
             MazeNode first = new MazeNode(1, 1, 1, 3);
             MazeNode last = new MazeNode(1, 4, 1, 1);
         }

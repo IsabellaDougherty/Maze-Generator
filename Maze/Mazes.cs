@@ -134,6 +134,7 @@ namespace Maze
 
             if (explorationPath != null)
             {
+                MazePct = (Bitmap)originalMazeImage.Clone();
                 drawMaze.drawExplorationPath(MazePct, explorationPath, brokenMaze.getBrokenMaze());
             }
 
@@ -155,7 +156,10 @@ namespace Maze
                 drawMaze.drawPathSegment(MazePct, from, to, Color.Red);
                 pctBoxDisp.Image = MazePct;
                 pctBoxDisp.Refresh();
-                await Task.Delay(100);
+                //IAD 9/9/2025: Added delay feature to allow for faster visualization of solution for larger mazes
+                int delay = (numUpDownRows.Value >= 50 && (int)numUpDownRows.Value  < 100) ? (int)numUpDownRows.Value / 2 :
+                    (numUpDownRows.Value >= 100) ? 5 * ((int)numUpDownRows.Value % 100) : 100;
+                await Task.Delay(delay);
             }
         }
         //IAD 11/11/2024: Method to handle the key press event

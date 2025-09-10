@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Maze.BreakMaze">
+    <Position X="7" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CgBAAAIGACAAAIIAABAAAAAoAgAAAAAAAAAIAAAAAAI=</HashCode>
+      <FileName>BreakMaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.BuildMaze">
+    <Position X="9" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAIABAAgAAAAAAAABAAAAAAACAAhgAAAAAAAAAAAA=</HashCode>
+      <FileName>BuildMaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.DrawMaze">
+    <Position X="11" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAgAAQAAAAAAQBCAEAAAACAQAAAAAABAAAAAAA=</HashCode>
+      <FileName>DrawMaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.MazeNode">
+    <Position X="4.75" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAACiAAIABAAABAAAIkACIAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>MazeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.frmMazes">
+    <Position X="1.75" Y="2" Width="2.75" />
+    <NestedTypes>
+      <Class Name="Maze.frmMazes.PathSelection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Mazes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIABFDGAQASUgBACCEABCBACYgaQQCBAEAAAAAkA=</HashCode>
+      <FileName>Mazes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.Program">
+    <Position X="15" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="System.Object" ManuallyRouted="true">
+      <Path>
+        <Point X="11" Y="2.562" />
+        <Point X="11" Y="2.875" />
+        <Point X="15.75" Y="2.875" />
+        <Point X="15.75" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.SolveMaze">
+    <Position X="9" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAAAAAAIAAAAAARDAAIAgACAAAAAAgAAAAAAAgA=</HashCode>
+      <FileName>SolveMaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.Properties.Resources">
+    <Position X="13" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
